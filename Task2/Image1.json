@@ -1,0 +1,310 @@
+{
+    "annotations": [
+        {
+            "result": [
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "X": 0.634286,
+                        "Y": 0.175238,
+                        "width": 0.0914286,
+                        "height": 0.190476,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                },
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "X": 0.632857,
+                        "Y": 0.393333,
+                        "width": 0.0942857,
+                        "height": 0.180952,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                },
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "X": 0.632857,
+                        "Y": 0.282857,
+                        "width": 0.0942857,
+                        "height": 0.401905,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                },
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "X": 0.142857,
+                        "Y": 0.439048,
+                        "width": 0.0942857,
+                        "height": 0.127619,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                },
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "X": 0.106429,
+                        "Y": 0.797143,
+                        "width": 0.192857,
+                        "height": 0.379048,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                },
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "X": 0.0435714,
+                        "Y": 0.440952,
+                        "width": 0.0871429,
+                        "height": 0.127619,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                },
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "X": 0.0364286,
+                        "Y": 0.165714,
+                        "width": 0.0728571,
+                        "height": 0.140952,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                },
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "X": 0.0371429,
+                        "Y": 0.305714,
+                        "width": 0.0742857,
+                        "height": 0.131429,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                },
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "X": 0.777143,
+                        "Y": 0.301905,
+                        "width": 0.185714,
+                        "height": 0.36381,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                },
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "X": 0.904286,
+                        "Y": 0.78,
+                        "width": 0.191429,
+                        "height": 0.371429,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                },
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "X": 0.131429,
+                        "Y": 0.301905,
+                        "width": 0.0971429,
+                        "height": 0.135238,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                },
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "X": 0.937857,
+                        "Y": 0.295238,
+                        "width": 0.124286,
+                        "height": 0.361905,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                },
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "X": 0.306429,
+                        "Y": 0.791429,
+                        "width": 0.201429,
+                        "height": 0.379048,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                },
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "X": 0.23,
+                        "Y": 0.195238,
+                        "width": 0.1,
+                        "height": 0.211429,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                },
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "X": 0.242143,
+                        "Y": 0.400952,
+                        "width": 0.09,
+                        "height": 0.19619,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                },
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "X": 0.705,
+                        "Y": 0.779048,
+                        "width": 0.201429,
+                        "height": 0.407619,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                },
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "X": 0.437143,
+                        "Y": 0.395238,
+                        "width": 0.0914286,
+                        "height": 0.188571,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                },
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "X": 0.339286,
+                        "Y": 0.399048,
+                        "width": 0.0928571,
+                        "height": 0.192381,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                },
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "X": 0.505,
+                        "Y": 0.795238,
+                        "width": 0.192857,
+                        "height": 0.371429,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                },
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "X": 0.535,
+                        "Y": 0.393333,
+                        "width": 0.0928571,
+                        "height": 0.188571,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                },
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "X": 0.534286,
+                        "Y": 0.186667,
+                        "width": 0.0971429,
+                        "height": 0.209524,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                },
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "X": 0.331429,
+                        "Y": 0.193333,
+                        "width": 0.0971429,
+                        "height": 0.211429,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                },
+                {
+                    "image_rotation": 0,
+                    "value": {
+                        "X": 0.432857,
+                        "Y": 0.190476,
+                        "width": 0.0971429,
+                        "height": 0.213333,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "object"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "data": {
+        "image": "Image1.jpg"
+    }
+}
